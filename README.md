@@ -45,7 +45,9 @@ Using the json files I found, I just added them to the database with a dirty `re
 
 ## Processing the Data - Part 1 - Google Places
 
-Step one of having something of value to work with was getting the businesses websites. All code used is found in `app/services/get_place_details.rb`. This assumes you've got a database table and Rails Model of the object (store type) you want to process:
+Step one of having something of value to work with was getting the businesses websites. All code used is found in `app/services/get_place_details.rb`. This assumes you've got a database table and Rails Model of the object (store type) you want to process.
+
+Before anything, you're going to need to update the API keys, which are currently at the top of `app/services/get_place_details.rb` with your Google Maps API key as well as the Mailgun API key.
 
 1. Open up rails console (`$ rails c`)
 2. Assuming you have a databse table of businesses collected (either scraped or pulled via open retailer-finder api) and that database has the business name, lat and longitude (which it should if you got it via a retailer-finder api) it will work.
