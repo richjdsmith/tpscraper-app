@@ -1,0 +1,304 @@
+id,name,mail_address_1,mail_address_2,city,state,country,zip,phone,longitude,latitude,place_id,website,formatted_address,google_places_name,email,duplicate_domain,created_at,updated_at,source_brand,source_url
+14,Kalamazoo Shop / Promoglisse.com,5 Place Rene Guy Cadou 44250 St Brevin L'Ocean France,,St Brevin L'Ocean,,France,44250,Tel: +33/(0)2 40 27 15 06,-2.1753158,47.2286494,4twtmADtcZYeVtwSgjnGrQ,Promoglisse.com,"5 Place Rene Guy Cadou 
+  44250 St Brevin L'Ocean 
+  France",,info@promoglisse.com,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+15,Waimea,Residence Des Sables D'Or - Chambre D'Amour 64600 Anglet France,,Anglet,,France,64600,Tel: 05 59 03 81 18 / Fax: 05 59 03 81 18,-1.541382,43.501067,gUSd-KV1fjxhNk5bkYj-DA,www.waimea.fr,"Residence Des Sables D'Or - Chambre D'Amour 
+  64600 Anglet 
+  France",,waimeasurfshop64@gmail.com,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+16,Surf One,2 Avenue de Septimanie 11370 Port Leucate France,,Port Leucate,,France,11370,Tel: +33 4 68 40 92 11 / Fax: +33 4 68 48 64 17,3.035554,42.853886,nezyo1jfQyAR6xdBlEEN2Q,http://www.surfone-leucate.com,"2 Avenue de Septimanie 
+  11370 Port Leucate 
+  France",,contact@surfoneleucate.com,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+17,Flysurf - NOCIKA,250 Chemin des Bastides des Rollands 13450 Grans France,,Grans,,France,13450,Tel: 04 42 41 53 65,5.096685,43.660475,_z4dNfcReoL5oH_UdNK3nQ,www.flysurf.com,"250 Chemin des Bastides des Rollands 
+  13450 Grans 
+  France",,contact@flysurf.com,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+18,Les pieds dans l'eau,Z.A. Marcel Dassault 64140 Lons France,,Lons,,France,64140,Tel: 05 59 06 58 09,-0.410847,43.300428,FW3MIpvYc2aMw3kfdg5ZnA,http://www.piedanlo.fr,"Z.A. Marcel Dassault 
+  64140 Lons 
+  France",,piedanlo@wanadoo.fr,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+19,La Voile Libre,Route du Cavaou 13270 Fos sur mer France,,Fos sur mer,,France,13270,Tel: +33 442051615,4.94591,43.437539,cDDdhqR4DivtMH6ZRnuQhg,www.lavoilelibre.com,"Route du Cavaou 
+  13270 Fos sur mer 
+  France",,info@lavoilelibre.com,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+20,Gliss Attitude,17 Montée du CDT Robien 13008 Marseille France,,Marseille,,France,13008,Tel: +33 491452771,5.489404,43.290093,3fiYs59cVBEAL1oQ-_iA4Q,www.glissattitude.com,"17 Montée du CDT Robien 
+  13008 Marseille 
+  France",,info@glissattitude.com,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+21,Freeride Attitude,763 Boulevard d'Alger 83600 Frejus France,,Frejus,,France,83600,Tel: +33 49517300 / Mobile: 0954676045,6.754376,43.423111,gmoaVnV6PGRUuRdmF6tidQ,www.freeride-attitude.com,"763 Boulevard d'Alger 
+  83600 Frejus 
+  France",,contact@freeride-attitude.com,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+22,Dls Kiteboarding Company Sarl,13 Rue Des Chenes Verts 85470 Bretignolles Sur Mer France,,Bretignolles Sur Mer,,France,85470,Tel: +33/(0)2 51 22 54 99,-1.8538591,46.6262646,e5hwLnrlilpQ8Nob89bCmg,"","13 Rue Des Chenes Verts 
+  85470 Bretignolles Sur Mer 
+  France",,contact@dls-kiteboard.com,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+23,Sail And Board,12 Route De La Roche Sur Yon 85360 La Tranche Sur Mer France,,La Tranche Sur Mer,,France,85360,Tel: +33/(0)2 51 30 36 02 / Fax: +33/(0)2 51 30 36 83,-1.3967991,46.4103188,eTrgK-16QuhgMvgvEtUrPg,+33/(0)2 51 30 36 83,"12 Route De La Roche Sur Yon 
+  85360 La Tranche Sur Mer 
+  France",,pascal.bothorel@wanadoo.fr,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+24,Surf Avenue La Rochelle,12 Rue De La Bonette 17000 La Rochelle France,,La Rochelle,,France,17000,Tel: +33 546 44 45 32,-1.1613021,46.1411049,nmbAnE2ggybYnnwNUD2uMQ,www.surfavenuelarochelle.com,"12 Rue De La Bonette 
+  17000 La Rochelle 
+  France",,quai34lr@yahoo.fr,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+25,Quai34 Bordeaux,101 rue Francois Sourdis 33000 Bordeaux France,,Bordeaux,,France,33000,Tel: +33 5 56 93 22 96,-0.588203,44.833272,FOBA1S-FKRPzUw1r8fckFw,www.glissup.fr,"101 rue Francois Sourdis 
+  33000 Bordeaux 
+  France",,quai34bx@hotmail.com,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+26,Impact Surf Shop,67 Avenue du Général de Gaulle 69300 Caluire France,,Caluire,,France,69300,Tel: +33 472275988,4.85561,45.808722,RIk_niLMawoREgA4IcCSOQ,www.impact-surfshop.com,"67 Avenue du Général de Gaulle 
+  69300 Caluire 
+  France",,contact@impact-surfshop.com,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+27,La Glisse,Zc Le Grand Epagny 74330 Epagny France,,Epagny,,France,74330,Tel: 04 50 22 03 38 / Fax: 04 50 22 27 28,6.07906,45.939344,VK9RBcmAu-DYBZE9eZc1Gg,www.laglisse.com,"Zc Le Grand Epagny 
+  74330 Epagny 
+  France",,contact@laglisse.com,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+28,Croconuts, 4 Rue de la Savonnerie 68460 Lutterbach France,,Lutterbach,,France,68460,Tel: +33 3 89 57 41 01,7.267335,47.756497,FLscdXrpSSVo_wIwkH4Cgw,www.crocoboardshop.com," 4 Rue de la Savonnerie 
+  68460 Lutterbach 
+  France",,info@croconuts.com,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:43 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+29,Clinique De La Planche,4 place de la demi lune 14000 Caen France,,Caen,,France,14000,Tel: 0231838416,0.338044299999979,49.174508,RSUYBo_XP5bG_M93yVkitw,"","4 place de la demi lune 
+  14000 Caen 
+  France",,cliniquedelaplanche@wanadoo.fr,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+30,Airwave,1 Rue Du Machicoulis 62200 Boulogne Sur Mer France,,Boulogne Sur Mer,,France,62200,Tel: +33 3 21 30 63 89,1.597518,50.729775,sfilPNXn5r1b-ALMYeeeJw,www.airwave-shop.com,"1 Rue Du Machicoulis 
+  62200 Boulogne Sur Mer 
+  France",,contact@airwave-shop.com,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+31,Kalamazoo,5 Place Rene Guy Cadou 44250 St Brévin l'Ocean France,,St Brévin l'Ocean,,France,44250,Tel: +33 240 271506 / Fax: +33 240 649603,-2.1753158,47.2286494,CJtizV92lA_Pf8C1DrfM5Q,www.promoglisse.com,"5 Place Rene Guy Cadou 
+  44250 St Brévin l'Ocean 
+  France",,odansin@club-internet.fr,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:43 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+32,Tam-Tam,82 Rue Claude Nicolas Ledoux 30900 Nimes France,,Nimes,,France,30900,Tel: +33 466213000,4.347392,43.815822,-SVDoQDlQJWgZDGyQygfjw,www.tamtamshop.com,"82 Rue Claude Nicolas Ledoux 
+  30900 Nimes 
+  France",,tamtam.30@wanadoo.fr,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+33,Clinique de la Planche,11 rue de la dives 14000 caen France,,caen,,France,14000,Tel: 02 31 83 84 16 / Fax: 02 31 34 51 30,-0.3372676,49.1734019,8E2LiqNjA_Znb8GIm8XpXw,02 31 34 51 30,"11 rue de la dives 
+  14000 caen 
+  France",,ecole.kitesurf@cliniquedelaplanche.com,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+34,Gliss Pro Shop,200 ALLEE JEAN FRANCOIS LESUEUR 34070 Montpellier France,,Montpellier,,France,34070,Tel: 0411932230,3.855525,43.577824,OsHZph8127StG7MUK2U5ig,glisse-proshop.com,"200 ALLEE JEAN FRANCOIS LESUEUR 
+  34070 Montpellier 
+  France",,contact@glisse-proshop.com,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+35,Source Boardshop,13 avenue de Chavoires 74940 Annecy le Vieux France,,Annecy le Vieux,,France,74940,Tel: 0033450668044,6.159845,45.904378,SIGhsgoqK_cC64etmGadyQ,sourceboardshop.com,"13 avenue de Chavoires 
+  74940 Annecy le Vieux 
+  France",,contact@sourceboardshop.com,false,2019-03-29 10:03:04 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+36,Multifun,34 Rue Montesquieu 49000 Angers France,,Angers,,France,49000,Tel: +33 241 73 09 07,-0.58193,47.473226,4lP291jyTvH0rYlv79VxjQ,www.multi-fun.com,"34 Rue Montesquieu 
+  49000 Angers 
+  France",,multifun@wanadoo.fr,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+37,Surf Avenue Dinard,Z A De La Marre 35780 La Richardais France,,La Richardais,,France,35780,Tel: +33 299 461 278,-2.045207,48.612837,F-0BfaKrxpgWYT2eMxYplA,www.surfavenue-rennes.com,"Z A De La Marre 
+  35780 La Richardais 
+  France",,surfavenuedinard@laposte.net,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+38,Kite Spirit,ZI du Moustoir 56950 Crach France,,Crach,,France,56950,Tel: +33 297 50 87 03,-2.9872663,47.6690414,P0-2Nn-sxuEcFPmwsWoMbg,"","ZI du Moustoir 
+  56950 Crach 
+  France",,info@kite-spirit.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+39,Au Spot,80 Rue Balard 75015 Paris France,,Paris,,France,75015,Tel: +33 1 45 57 00 00,2.278102,48.839168,ljohf6JCExZQeLwLkeX6ow,www.auspot.fr,"80 Rue Balard 
+  75015 Paris 
+  France",,auspot@gmail.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+40,Tam Tam Bonifacio,Route Santa Manza 20169 Bonifacio France,,Bonifacio,,France,20169,Tel: +33 495731159,9.167757,41.414841,GotXXcP2tGyb8ffUlxaVjA,www.tam-tam.fr,"Route Santa Manza 
+  20169 Bonifacio 
+  France",,infos@tam-tam.fr,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+41,Nature Kite,1 avenue de la Bergerie 83400 Hyeres France,,Hyeres,,France,83400,Tel: 0688768168 / Mobile: 04 94 21 97 57 / Fax: 0672955374,6.147556,43.04785,9ctfje8EjN2mknUnv6clNQ,http://www.nature-kite-shop.com,"1 avenue de la Bergerie 
+  83400 Hyeres 
+  France",,hubert.alexandre@terreetnature.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+42,Vague et Vent,Avenue Frederic Fabregues 34250 Palavas les Flots France,,Palavas les Flots,,France,34250,Tel: +33 467682294,3.933493,43.528906,mFzxqjq1yohcPNo5RcpT1g,http://www.vagueetvent.com,"Avenue Frederic Fabregues 
+  34250 Palavas les Flots 
+  France",,contact@vagueetvent.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+43,Top Kite,Avenue du Passeur Challiès 34300  Le Cap d'Agde France,,Le Cap d'Agde,,France,34300 ,Tel: +33 6 27777247 / Mobile: 0632671711,3.501588,43.279251,a_E0Y4cgwzGg7oNlZ6WB9A,www.topkite.fr,"Avenue du Passeur Challiès 
+  34300  Le Cap d'Agde 
+  France",,contact@topkite.fr,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+44,Quai 34 Narbonne,Route de Perpignan 11100 Narbonne France,,Narbonne,,France,11100,Tel: +33 468411734,2.982789,43.160178,JlXapmEO5HgVOLKeAqlhMg,www.fun-diffusion.com,"Route de Perpignan 
+  11100 Narbonne 
+  France",,fundiffusion@orange.fr,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+45,Neway Grenoble,32 Rue de Comboire 38130 Echirolles France,,Echirolles,,France,38130,Tel: +33 476097212,5.69019,45.143323,haHTchEeAW_aGpSBbDSzkg,www.neway38.com,"32 Rue de Comboire 
+  38130 Echirolles 
+  France",,neway38@orange.fr,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+46,Surfit,5 Rue Du Verdun 74940 Annecy le Vieux France,,Annecy le Vieux,,France,74940,Tel: +33 4 50 27 87 65,6.158492,45.906468,wZY4tkyByphd-1LZpm94rg,www.surfit.fr,"5 Rue Du Verdun 
+  74940 Annecy le Vieux 
+  France",,contact@surfit.fr,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+47,Sail and Board,12 Route De La Roche Sur Yon 85360 La Tranche Sur Mer France,,La Tranche Sur Mer,,France,85360,Tel: +33 2 51 30 36 02,-1.3967998,46.4103195,AWxbdpplxALE2GGSerBWMg,"","12 Route De La Roche Sur Yon 
+  85360 La Tranche Sur Mer 
+  France",,pascal.bothorel@free.fr,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+48,Sport Maximum,122 Bld Clemenceau 76600 Le Havre France,,Le Havre,,France,76600,Tel: +33 2 35 21 09 05 / Mobile: 0679830841,0.0979775,49.4893882,usx-vdc6j_Kp23OVsT9fIw,www.sportmax.fr,"122 Bld Clemenceau 
+  76600 Le Havre 
+  France",,grego@sport-maximum.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+49,Surf Avenue Rennes,Mont Gerval ZA du Triangle Vert 35520 La Meziere France,,La Meziere,,France,35520,Tel: +33 2 99 36 07 36,-1.7562277,48.2196296,-Elm44UjlHOUflAjlVld9Q,www.surfavenue-rennes.com,"Mont Gerval ZA du Triangle Vert 
+  35520 La Meziere 
+  France",,surfavenue@laposte.net,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+50,Le Marin,Quai Jean Verandy 13500 Carro France,,Carro,,France,13500,Tel: +33 442428899,5.039981,43.329605,i_O_391bYC7GJgri1_5CNA,www.carro-surfshop.com,"Quai Jean Verandy 
+  13500 Carro 
+  France",,marinsurfshop@free.fr,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+51,Welcome Hyeres,109 Allee Du Poussetroute De Giens 83400 Hyeres France,,Hyeres,,France,83400,Tel: +33 4 94 58 96 90,6.133659,43.039188,6LH1w1N0af0Iqj_FxbX2QA,www.welcomesurfhyeres.com,"109 Allee Du Poussetroute De Giens 
+  83400 Hyeres 
+  France",,welcomehyeres@hotmail.fr,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+52,La Manille,1 Avenue des Pins 17650 St Denis d'Oléron France,,St Denis d'Oléron,,France,17650,Tel: +33 546 47 92 60,-1.378025,46.035204,WH9vy1YQ0_w31LEzItJ1Kg,"","1 Avenue des Pins 
+  17650 St Denis d'Oléron 
+  France",,lamanille0616@orange.fr,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+53,Neway Royan,1 allée du Lougre  17200 Royan France,,Royan,,France,17200,Tel: +33 5 46 39 87 26,-1.030876,45.618989,EVRVSQtxLTDj87t0qf3H0Q,"","1 allée du Lougre  
+  17200 Royan 
+  France",,newayroyan@wanadoo.fr,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+54,Ridedealer,3 rue des Franciscains 68100 MULHOUSE France,,MULHOUSE,,France,68100,Tel: 33389451652,7.33344,47.746762,tiB80yB1Bu4wFpXW4LxDXg,"","3 rue des Franciscains 
+  68100 MULHOUSE 
+  France",,info@ridealer.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:43 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+55,Yemanja,Route du Stiletto 20090 Ajaccio France,,Ajaccio,,France,20090,Tel:  0495242850,8.765566,41.946633,Rswyigp9HFUu7_FfUTZAog,http://yemanjasurfshop.fr,"Route du Stiletto 
+  20090 Ajaccio 
+  France",,yemanjasurfshop@gmail.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+56,Gliss evo,Port de plaisance  44380  Pornichet France,, Pornichet,,France,44380,Tel:  02 40 11 94 76,-2.345985,47.25813,fav_Yo4cC5gwyzDDNsR_RQ,"","Port de plaisance  
+  44380  Pornichet 
+  France",,adrien@glissevolution.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+57,Matahari,2 Avenue Jules Ferry 33680 Lacanau France,,Lacanau,,France,33680,Tel: 05 56 03 13 01,-1.201207,45.003598,b4dmjP38R0nem8nXQPE3Lg,"","2 Avenue Jules Ferry 
+  33680 Lacanau 
+  France",,mataharisurfshop@gmail.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+58,Boarderline,107 Rte du Nant 01280 Prevessins Moëns France,,Prevessins Moëns,,France,01280,Tel: +33 7 87 38 57 49,6.093332,46.264212,YqFFfiSzC4w5qCIYeVsItQ,http://www.boarder-line.com,"107 Rte du Nant 
+  01280 Prevessins Moëns 
+  France",,contact@ctwdistribution.biz,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:43 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+59,The Corner Shop,25 rue Madame de Stael 92110 CLICHY France,,CLICHY,,France,92110,Tel: 0147318424,2.313987,48.90311,CCC6hLpK9khkMBWLZ5buaA,www.thecornershop.fr,"25 rue Madame de Stael 
+  92110 CLICHY 
+  France",,cincekite@gmail.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+60,La clinique de la planche,4 place de la Demie Lune 14000 Caen France,,Caen,,France,14000,Tel: 0231838416,-0.338221,49.174302,VHa8gBl3Iv8jzxdNRB9uig,www.cliniquedelaplanche.com,"4 place de la Demie Lune 
+  14000 Caen 
+  France",,cliniquedelaplanche@gmail.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+61,Surfshop,"455, promenade des Anglais,Bât. Arenice 06200  Nice France",, Nice,,France,06200,Tel: 04 93 98 57 17 / Mobile: 06 11 13 62 30 ,7.255144,43.693462,UbLnlPxnhNsSm_xVnD_jog,http://www.surfshop.fr/,"455, promenade des Anglais,Bât. Arenice 
+  06200  Nice 
+  France",,xavier@surfshop.fr,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+62,Waimea Surf Shop,3 Esplanade des Gascons 64600 Anglet France,,Anglet,,France,64600,Tel: 0559030297,-1.541407,43.501023,MDP4s7RLay-StlKcqcdCdg,www.waimea.fr,"3 Esplanade des Gascons 
+  64600 Anglet 
+  France",,waimeasurfshop64@gmail.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+63,ZEPH CONTROL,42 boulevard Wattier 14810  Merville-Franceville France,,Merville-Franceville,,France,14810 ,Tel: 0231241252,-0.203284,49.285331,5vuOrkrpXzcevOkTqUGRaw,http://www.zephcontrol.com/,"42 boulevard Wattier 
+  14810  Merville-Franceville 
+  France",,mathieu@zephcontrol.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+64,NKS 56,10 Rue du Préleran 56340 Plouharnel France,,Plouharnel,,France,56340,Tel: 0684200060 / Mobile: 0658189377,-3.114321,47.599349,uurEzPQ60HCS4JuUz5LZbg,https://www.nks56.com,"10 Rue du Préleran 
+  56340 Plouharnel 
+  France",,pierre-romain@orange.fr,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+65,Welcome Surfshop,109 allée du pousset 83400 Hyères France,,Hyères,,France,83400,Tel: 04 94 58 96 90,6.146274,43.049102,RA4_kAqpcSy7KClvnUai1g,www.welcomesurfhyeres.com,"109 allée du pousset 
+  83400 Hyères 
+  France",,welcomehyeres@hotmail.fr,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+66,Side Shore Brest,100 rue des Mouettes   29200 BREST  France,,BREST ,,France,29200,Tel: 02 98 46 71 85,-4.436175,48.386356,f8ejjpBSnNHqHZCVots6Ow,"","100 rue des Mouettes   
+  29200 BREST  
+  France",,joris@side-shore.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+67,WindSwing,Port de Bourgeray 85440 Talmont saint hilaire France,,Talmont saint hilaire,,France,85440,Tel: 02 51 22 22 97 / Fax: 02 51 22 22 97,-1.676944,46.441251,kfrWea4jH-rMbzWTr-x0Vg,02 51 22 22 97,"Port de Bourgeray 
+  85440 Talmont saint hilaire 
+  France",,windswing@free.fr,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+68,Sport Maximum Shop,122 bd clemenceau 76600 le havre France,,le havre,,France,76600,Fax: 02 35 42 38 57,0.0979863,49.4889422,UtH6hZPFij9jxkOz6mljTQ,02 35 42 38 57,"122 bd clemenceau 
+  76600 le havre 
+  France",,jfadam@sport-maximum.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+69,Sport Maximum,122 bd Clemenceau 76600 Le havre France,,Le havre,,France,76600,Tel: 02 35 21 09 05 / Fax: 02 35 42 38 57,0.0984112,49.4885634,W8sZyFtZBy_-pgdF7gBucA,02 35 42 38 57,"122 bd Clemenceau 
+  76600 Le havre 
+  France",,sportmax76@hotmail.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+70,"Kite Asia, Hangin Kitecenter","Bulabog Road 1A 5608 Boracay, Malay Aklan Philippines",,"Boracay, Malay Aklan",,Philippines,5608,Tel: +63 36 288 3766 / Mobile: +63 9177171870 / Fax: 0063 36 288 556,121.9255185,11.967351,ujqPSJw_Z1F__utQ6gg48w,0063 36 288 556,"Bulabog Road 1A 
+  5608 Boracay, Malay Aklan 
+  Philippines",,info@kite-asia.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+71,Mas Kite,"Urb Bahia Blanca, Locales 4-5 30380 La Manga Spain",,La Manga,,Spain,30380,Tel: +34 968 143 402,-0.714088,37.643163,BVUi2ydJQkLMSLP2adMVGw,http://maskite.com/,"Urb Bahia Blanca, Locales 4-5 
+  30380 La Manga 
+  Spain",,info@maskite.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+72,Parres Center,"Av. Vicente Blasco Ibañez, 118 03130 Santa Pola Spain",,Santa Pola,,Spain,03130,Tel: +34 965 416 906,-0.581627,38.191046,hfvBBhPqa3irueGBCuFc4A,http://parres-center.com,"Av. Vicente Blasco Ibañez, 118 
+  03130 Santa Pola 
+  Spain",,parrescenter@parres-center.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+73,Red Shark,Avd. Pedro y Guy Vandaele 35660 Corralejo - Fuerteventura - Islas Canarias Spain,,Corralejo - Fuerteventura - Islas Canarias,,Spain,35660,Tel: +34928867548,-13.849801,28.726026,FZ_jC1yNRNtGLCvDTTHhpw,http://redsharkfuerteventura.com,"Avd. Pedro y Guy Vandaele 
+  35660 Corralejo - Fuerteventura - Islas Canarias 
+  Spain",,info@redsharkfuerteventura.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+74,Pop Kite,Avenida de Castelldefels 189 08860 Castelldefels (Barcelona) Spain,,Castelldefels (Barcelona),,Spain,08860,Tel: 931 82 44 21 / Mobile: 640 705 774,1.971975,41.268549,EdojIp9KCjmi4Se5SHVgHw,http://www.popkite.com/,"Avenida de Castelldefels 189 
+  08860 Castelldefels (Barcelona) 
+  Spain",,info@popkite.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+75,Wet-Store.com,Polígono Industrial La Vega 208 11380 Tarifa Spain,,Tarifa,,Spain,11380,Tel: 956 68 16 68,-5.611238,36.02544,NILOK9K9Yy5ouRRb_Unovg,www.wet-store.com,"Polígono Industrial La Vega 208 
+  11380 Tarifa 
+  Spain",,info@wet-store.com,false,2019-03-29 10:03:05 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+76,Awa Watersports Almeria,Playa de villa africa s/n y playa de las Salinas 04720 Aguadulce Spain,,Aguadulce,,Spain,04720,Tel: 634 53 45 30,-2.576493,36.803448,pwfnfIp8xXRW0c_HYNzS_Q,http://awa-watersports.com/,"Playa de villa africa s/n y playa de las Salinas 
+  04720 Aguadulce 
+  Spain",,info@awa-kiteboarding.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+77,Wet Valencia,"c/ Casa De La Misericordia, 12 Bajo IZQDA 46014 Valencia Spain",,Valencia,,Spain,46014,Tel: +34 963 380 900,-0.376805,39.470239,c74AeHSSMUk4fCCk5Uifrw,www.wet-tarifa.com,"c/ Casa De La Misericordia, 12 Bajo IZQDA 
+  46014 Valencia 
+  Spain",,valencia@wet-tarifa.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+78,Front Fred,"Carrer de la Diputació, 212 08011 BARCELONA Spain",,BARCELONA,,Spain,08011,Tel: 933 18 45 81,2.161394,41.386,7CD1xXoOzBID0zP0WUnhrA,www.frontfred.com,"Carrer de la Diputació, 212 
+  08011 BARCELONA 
+  Spain",,frontfred@terra.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+79,Pipeline Surf Shop - MarllorcaSurfing S.L.,"C/ Cicerón, 7 Bajo 07610 Palma de Mallorca Spain",,Palma de Mallorca,,Spain,07610,Tel: 971745558,2.717995,39.535009,G_DysudXhUu2LJYZBVWcGg,http://www.mallorcapipeline.com,"C/ Cicerón, 7 Bajo 
+  07610 Palma de Mallorca 
+  Spain",,info@mallorcapipeline.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:43 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+80,Wet El Cabezo,"C/ La Graciosa, 2 local 7 38612 EL MEDANO Spain",,EL MEDANO,,Spain,38612,Tel: 0034 922 17 73 78,-16.534458,28.044979,biRWIL2fcTQ8R9vHKoVhZw,https://wet-store.com/,"C/ La Graciosa, 2 local 7 
+  38612 EL MEDANO 
+  Spain",,cabezo@wet-watersports.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+81,Dak Tak,"C/ HILARION ESLAVA, 44 28015 MADRID Spain",,MADRID,,Spain,28015,Tel: 915 491 100,-3.716428,40.436819,Tu6DnhyTlZB_s66_4lcOLg,http://www.daktak.es/,"C/ HILARION ESLAVA, 44 
+  28015 MADRID 
+  Spain",,rafa@daktak.es,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+82,Wet Tarifa,Pol. Ind. La Vega 208 - Junto Mercadona 11380 Tarifa Spain,,Tarifa,,Spain,11380,Tel: 956681668,-5.611441,36.025439,qOOyNEDVP6fCgzUI50wNcQ,https://wet-store.com/,"Pol. Ind. La Vega 208 - Junto Mercadona 
+  11380 Tarifa 
+  Spain",,clientes@wet-store.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+83,Surf Karma,C/ Duquesa De Arcos - Edif. Marina Local 41A 29692 Sabinillas-Manilva (Málaga) Spain,,Sabinillas-Manilva (Málaga),,Spain,29692,Tel: +34 629571899,-5.058045,36.45163,TSgG8_EYntYJXGqmpNECpg,http://karmasurfshop.com/,"C/ Duquesa De Arcos - Edif. Marina Local 41A 
+  29692 Sabinillas-Manilva (Málaga) 
+  Spain",,auswind21@hotmail.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+84,HoeNalu,"Polígono Industrial La Ermita, Calle Madera, 9 29603 Marbella Spain",,Marbella,,Spain,29603,Tel: 951 20 41 84,-4.86759,36.510258,fYHDKRO1jTcda7zQ1xG2pw,https://hoenalu.com/,"Polígono Industrial La Ermita, Calle Madera, 9 
+  29603 Marbella 
+  Spain",,florian@hoenalu.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+85,Kitesurfing Chiclana,"AVDA. DEL ATLANTICO-C.C.PINO, LC 4D 11130 CHICLANA, CADIZ Spain",,"CHICLANA, CADIZ",,Spain,11130,Tel: +34696 047 997 / Mobile: +34696 047 997,-6.149412,36.4191532,VCzlgwohF-T0V4ay9ZI0Yg,"","AVDA. DEL ATLANTICO-C.C.PINO, LC 4D 
+  11130 CHICLANA, CADIZ 
+  Spain",,kitesurfchiclana@hotmail.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+86,Pozowinds,C/ LAS BAJAS Nº 73 35119 POZO Spain,,POZO,,Spain,35119,Tel: 928 155 009,-15.425045,27.823536,At5WchUnTUOo0lRfo960gA,http://www.pozowinds.com/,"C/ LAS BAJAS Nº 73 
+  35119 POZO 
+  Spain",,jonas@pozowinds.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+87,HoeNalu,"C/ Madera 9A, Polígono Industrial La Ermita 29603 Marbella Spain",,Marbella,,Spain,29603,Tel: +34 951 204 184,-4.867513,36.509736,oXHpvlm4fTU3i2kbmTxvng,https://hoenalu.com,"C/ Madera 9A, Polígono Industrial La Ermita 
+  29603 Marbella 
+  Spain",,shop@hoenalu.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:40 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+88,Wet Valencia,"Carrer de la Casa de la Misericòrdia, 12 46014 Valencia Spain",,Valencia,,Spain,46014,Tel: 963 38 09 00,-0.41023,39.46691,z598ugYta2_X0QhdwRc9BA,https://wet-store.com/,"Carrer de la Casa de la Misericòrdia, 12 
+  46014 Valencia 
+  Spain",,valencia@wet-tarifa.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+89,Kailua,"Estrada Vella de Madrid, 141 36214 Vigo Spain",,Vigo,,Spain,36214,Tel: 986 22 75 33 / Mobile: 676 460 657,-8.682172,42.221351,pqd8cL83pgyciLobhgVi5A,http://kailua.es/tienda/,"Estrada Vella de Madrid, 141 
+  36214 Vigo 
+  Spain",,kailua@kailua.es,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+90,La Central del Kite,Playa del Trabucador - Crta de las Salinas 43540 Sant Carles de la Rapita Spain,,Sant Carles de la Rapita,,Spain,43540,Tel: +34 655 79 39 77 / Mobile: +34 655 79 39 77,0.741211,40.628546,wbrUx0dL9dDQ3mEiiFC0kg,www.lacentraldelkite.com,"Playa del Trabucador - Crta de las Salinas 
+  43540 Sant Carles de la Rapita 
+  Spain",,lacentraldelkite@gmail.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+91,Kite Experience,Carretera de la Platja S/N 17470 Sant Pere Pescador Spain,,Sant Pere Pescador,,Spain,17470,Tel: +34 656 365 795 / Mobile: +34 656 365 795,3.107881,42.188773,zRoIsMSuhqfJDF9FLwv9Ig,http://kiteexperience.com/,"Carretera de la Platja S/N 
+  17470 Sant Pere Pescador 
+  Spain",,info@kiteexperience.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+92,Awa Watersports Granada,Playa Granada 18613 Granada Spain,,Granada,,Spain,18613,Tel: 626 296 048,-3.552955,36.715226,idmYB1W_7EWG5iRZk4te9w,awa-watersports.com,"Playa Granada 
+  18613 Granada 
+  Spain",,info@awa-watersports.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+93,Eolis Kite,"c/ Tulipa, 28 17258 L'Estartit Spain",,L'Estartit,,Spain,17258,Tel: +34606895890,3.193087,42.040606,HQ6lJ43kMTgcMuC_UrIQcA,"","c/ Tulipa, 28 
+  17258 L'Estartit 
+  Spain",,eoliskite@hotmail.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+94,NORTHWIND WATERSPORTS COMPANY,"C/ Cabo Mayor, 13, 1-2 39140 Somo Spain",,Somo,,Spain,39140,Tel: +34 609 407 294 - 676 011 525,-3.81071,43.459569,AtDu0gAzxK8uZnmP4h_aiA,"","C/ Cabo Mayor, 13, 1-2 
+  39140 Somo 
+  Spain",,info@northwindcompany.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+95,Spinosa,AVENIDA RADIO BALIZA OSCAR Nº 2 30710 LOS NAREJOS (MURCIA) Spain,,LOS NAREJOS (MURCIA),,Spain,30710,Tel: 968 584 929,-0.842837,37.758522,43ZoUfF43m1dRmOzpeDR1w,"","AVENIDA RADIO BALIZA OSCAR Nº 2 
+  30710 LOS NAREJOS (MURCIA) 
+  Spain",,info@spinosaboards.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+96,Wet Cafè Tarifa,"N-340, km 82 - junto a Banti Hotel 11380 Tarifa Spain",,Tarifa,,Spain,11380,Tel: 956681668,-5.615323,36.033142,BejoA2tdQRcylKuDmRfzVw,https://wet-store.com/,"N-340, km 82 - junto a Banti Hotel 
+  11380 Tarifa 
+  Spain",,clientes@wet-store.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+97,Surf Center Tarifa,"Ctra N-340 km 79,3 - Interior Hotel Arte Vida 11380 Tarifa Spain",,Tarifa,,Spain,11380,Mobile: +34 664171596 ,-5.648021,36.05198,gkWnBNxVHL683GGB1Mp_XA,http://www.surfcentertarifa.com/,"Ctra N-340 km 79,3 - Interior Hotel Arte Vida 
+  11380 Tarifa 
+  Spain",,surfcentertarifa@gmail.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+98,Urban Surf,2100 N. NORTHLAKE WAY 98103 SEATTLE United States,,SEATTLE,,United States,98103,Tel: (206) 545-9463 / Fax: (206) 545-9463,-122.3339205,47.6474949,smFgcjf0DaW4cA2qIkc48w,(206) 545-9463,"2100 N. NORTHLAKE WAY 
+  98103 SEATTLE 
+  United States",,usurf@urbansurf.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+99,Jupiter Kiteboarding,1500 N. US HWY 1 33469 JUPITER United States,,JUPITER,,United States,33469,Tel: 561-427-0240,-80.085607,26.952934,FJmcd-sepDpSftrNu5p1Uw,http://www.jupiterkiteboarding.com/,"1500 N. US HWY 1 
+  33469 JUPITER 
+  United States",,jeremyscottgreen@hotmail.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+100,Second Wind Sail & Surf,111 Hana HWY 96732 Kahului  United States,,Kahului ,,United States,96732,Tel: 808-877-7467,-156.460418,20.891135,Zx4a6BLiKlukp3viB_nWRQ,"","111 Hana HWY 
+  96732 Kahului  
+  United States",,info@secondwindmaui.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+101,Inland Sea Windsurf Co.,313. Main St. (Route 28)  02670 WEST DENNIS United States,,WEST DENNIS,,United States,02670,Tel: 888-465-2632 / Mobile: 508-398-1333,-70.1727967,41.6645557,x5354Mw6K-Lkx3HCT3iCKw,http://www.inlandsea.com/,"313. Main St. (Route 28)  
+  02670 WEST DENNIS 
+  United States",,phil@inlandsea.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+102,Big Winds,"207 Front St 97031 Hood River, OR United States",,"Hood River, OR",,United States,97031,Tel: 541-386-6086,-121.510032,45.708453,8Kg2FHDt0LuToiqPqck8sA,https://www.bigwinds.com/fanatic,"207 Front St 
+  97031 Hood River, OR 
+  United States",,bigwinds@bigwinds.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+103,Calikites,1336 Van Ness #2 94109 San Francisco United States,,San Francisco,,United States,94109,Tel: (415) 922-5483,-122.42167,37.788231,reE2ADKSpj7WX_oqt2UYaw,"","1336 Van Ness #2 
+  94109 San Francisco 
+  United States",,brian@calikites.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:43 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+104,Island Surf and Sail,3304 LONG BEACH BLVD 08008 BRANT BEACH United States,,BRANT BEACH,,United States,08008,Tel: (609) 494-5553 / Fax: (609) 494-5139,-74.1875419,39.635079,WggUIHcEz2n7hqqcnQMlpw,http://www.islandsurf-sail.com/,"3304 LONG BEACH BLVD 
+  08008 BRANT BEACH 
+  United States",,store@islandsurf-sail.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:43 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+105,KAILUA SAILBOARDS,130 KAILUA RD 96734 KAILUA United States,,KAILUA,,United States,96734,Tel: 808-262-2555 / Fax: 808-262-2555,-157.731121,21.396819,ZKhK1Pzpb5r0XuSEdKuE1g,808-262-2555,"130 KAILUA RD 
+  96734 KAILUA 
+  United States",,devin@kailuasailboards.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+106,321 KITEBOARDING,"235 WEST COCOA BEACH CSWY 32931 COCOA BEACH, FL United States",,"COCOA BEACH, FL",,United States,32931,Tel: (321) 302-5663,-80.609298,28.358328,DaizAVeBmhxDZLqU11eKjg,www.321kiteboarding.com,"235 WEST COCOA BEACH CSWY 
+  32931 COCOA BEACH, FL 
+  United States",,info@321kiteboarding.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+107,"South Padre Island Kiteboarding, Inc.",5208 B Padre Blvd. 78597 Texas United States,,Texas,,United States,78597,Tel: 956.772.1098,-97.170102,26.124357,uEQ6uhHQmdX7yVeqP0E6tA,"","5208 B Padre Blvd. 
+  78597 Texas 
+  United States",,info@spikiteboarding.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+108,NY Kite Center,"334 South Bayview Ave 11701 Amityville, NY United States",,"Amityville, NY",,United States,11701,Tel: 631-691-0793,-73.4083,40.6591,hYW1Gw7RJSNMEE5WhrHp-Q,https://www.nykitecenter.com/,"334 South Bayview Ave 
+  11701 Amityville, NY 
+  United States",,info@nykitecenter.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+109,TKS Miami,1784 West Ave. Bay 6/7 33139 Miami Beach United States,,Miami Beach,,United States,33139,Tel: +1 (305) 397.8282,-80.143059,25.79349,1PguplbV9bLu_CVk8UAqSQ,http://tksmiami.com/,"1784 West Ave. Bay 6/7 
+  33139 Miami Beach 
+  United States",,sales@tksmiami.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+110,Adventure Sports Fort Lauderdale,741  SE 17th Street FL 33316 Ft Lauderdale United States,,Ft Lauderdale,,United States,FL 33316,Tel: (954) 526-9367,-80.135565,26.100404,mcnBkdfxvnKOw7VfVOnAcw,"","741  SE 17th Street 
+  FL 33316 Ft Lauderdale 
+  United States",,info@adventuresportsftlauderdale.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+111,No Limit Kiteboarding,16822 PCH Suite D 92649 Huntington Beach United States,,Huntington Beach,,United States,92649,Tel: 916-752-9623,-118.069997,33.717889,kfs-2pv4FRyZkEvGPYiJjg,www.nolimitkiteboarding.com,"16822 PCH Suite D 
+  92649 Huntington Beach 
+  United States",,rob@nolimitkiteboarding.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+112,Houston Kiteboarding,"524 9th Ave N 7759 Texas City, TX United States",,"Texas City, TX",,United States,7759,Tel: 1-877-955 4837 / Mobile: 281-508-6485,-94.901595,29.393404,dfJtxD3Sdz5Gp_56LuWDnA,http://www.houstonkiteboarding.com/,"524 9th Ave N 
+  7759 Texas City, TX 
+  United States",,sales@houstonkiteboarding.com,false,2019-03-29 10:03:06 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+113,SOLSTICE SPORTS INC.," 80301 Bolder, CO United States",,"Bolder, CO",,United States,80301,Tel: (800) 320-9463,-105.265503,40.019201,QaRMlnKZC5nXlXZo6m7bQg,http://www.solsticesports.com," 
+  80301 Bolder, CO 
+  United States",,nick@solsticesports.com,false,2019-03-29 10:03:07 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
+114,Curtis Sport Connection,"4276 Saint Frances Drive 14075 Hamburg, NY  United States",,"Hamburg, NY ",,United States,14075,Tel: +1-716-627-2247,-78.864787,42.76839,kfAUXckJKwLsJIRufq1dow,"","4276 Saint Frances Drive 
+  14075 Hamburg, NY  
+  United States",,curtissportconnection@gmail.com,false,2019-03-29 10:03:07 UTC,2019-03-29 10:32:41 UTC,Duotone Sports,https://database.boards-and-more.com/api/v1/dt-kites/screenbow/Tmj3DjU7-o6p7horkj3VH_rTB/finder?role=dealer
