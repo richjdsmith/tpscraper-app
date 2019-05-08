@@ -1,6 +1,6 @@
 require 'fuzzystringmatch'
 
-GOOGLE_API_KEY = 'AIzaSyAu5xHGrU3LtzcgMLTrvNU7fEBNIgNOEPo'
+GOOGLE_API_KEY = '#######################'
 MAILGUN_API_KEY = 'a54ac79c################44-680c8b5a'
 # The fuck do you want.
 module GetPlaceDetails
