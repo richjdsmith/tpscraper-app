@@ -1,6 +1,6 @@
 require 'fuzzystringmatch'
 
-GOOGLE_API_KEY = 'AIzaSy#######################NOEPo'
+GOOGLE_API_KEY = 'AIzaSyAu5xHGrU3LtzcgMLTrvNU7fEBNIgNOEPo'
 MAILGUN_API_KEY = 'a54ac79c################44-680c8b5a'
 # The fuck do you want.
 module GetPlaceDetails
@@ -13,7 +13,7 @@ module GetPlaceDetails
 
     def self.get_array_of_retailers(retailer_type, number_to_fetch_start, number_to_fetch_end)
       puts 'In get_array_of_retailers'
-      "#{retailer_type.capitalize}Retailer".constantize.where(id: number_to_fetch_start..number_to_fetch_end)
+      "#{retailer_type.capitalize}Retailer".constantize.where(id: number_to_fetch_start..number_to_fetch_end).where(place_id: [nil, false])
     end
 
     def self.update_retailers_place_id(retailers)
@@ -21,10 +21,11 @@ module GetPlaceDetails
       jarow = FuzzyStringMatch::JaroWinkler.create(:native)
       retailers.each do |retailer|
         response = call_places_search_api(retailer)
-        if response['status'] == 'OK' && jarow.getDistance(retailer.name, response['candidates'][0]['name']) > 0.5
+        if response['status'] == 'OK' && jarow.getDistance(retailer.name, response['candidates'][0]['name']) > 0.3
           puts "retailer matched, updating."
           retailer.update(place_id: response['candidates'][0]['place_id'])
         end
+        sleep(0.2)
       end
     end
 
@@ -64,7 +65,8 @@ module GetPlaceDetails
 
   class SaveToCSV
     def self.call(retailer_type,range_start,range_end)
-      retailers = "#{retailer_type.capitalize}Retailer".constantize.where.not(website: nil).where(id: range_start..range_end).select([:id, :name, :google_places_name, :mail_address_1, :mail_address_2, :city, :state, :country, :zip, :phone, :fitter, :retailer, :website, :formatted_address])
+      # retailers = "#{retailer_type.capitalize}Retailer".constantize.where.not(website: nil).where(id: range_start..range_end).select([:id, :name, :email, :google_places_name, :mail_address_1, :mail_address_2, :city, :state, :country, :zip, :phone, :retailer, :website, :formatted_address])
+      retailers = "#{retailer_type.capitalize}Retailer".constantize.where.not(website: nil).where(id: range_start..range_end).select([:id, :name, :email, :mail_address_1, :city, :country, :zip, :website, :formatted_address])
       retailers_csv = retailers.to_csv
       File.open("#{retailer_type.downcase}-website-mailing-list.csv", "w") do |output_file|
         output_file.write(retailers_csv)
